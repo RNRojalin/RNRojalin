@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rojalin Nayak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A software developer eager to embark on a coding journey!</h3>
 
 [![](https://visitcount.itsvg.in/api?id=RNRojalin&icon=0&color=1)](https://visitcount.itsvg.in)
 
